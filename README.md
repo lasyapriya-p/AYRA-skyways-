@@ -1,2 +1,2 @@
-# AYRA-skyways-
-It is a frontend project 
+# Ayra_17-08-24
+Learn how to create a fully responsive Tour &amp; Travel website design from scratch using HTML, CSS, and JavaScript!
